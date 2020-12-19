@@ -6,6 +6,7 @@ No input basta digite o nome da cidade, de qualquer lugar do mundo que ele busca
 A api usada é openweathermap
 
 <b>Api de previsão do tempo</b>
+
 <img src="ref.png"/>
-<br><br>
+</br></br>
 para rodar o projeto basta baixar o arquivo e yarn ou npm install para baixar as dependencias e depois npx react-native run-android (você vai precisar do android studio)
